@@ -2,7 +2,7 @@
 
 The repository contains the code to reproduce the results of reconstruction and training the [VQGAN](https://github.com/CompVis/taming-transformers). 
 
-VQGAN.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hxVmxgzttsle-mGP5z9UHZcgNZqg9TXP?usp=sharing)
+VQGAN.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11bQuB2_rHyvGToS_FS3KEjyhG8ZU9RLb?usp=sharing)
 This Jupyter Notebook file contains the usage of VQGANs 
 - to reconstruct images
 - find FID score between the reconstructed and original images
@@ -25,6 +25,7 @@ pip install -r requirements.txt
 * [LSUN Bedroom](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/ref_batches/lsun/bedroom/VIRTUAL_lsun_bedroom256.npz)
 (Preparation of dataset is mentioned in the notebook)
 
+- Download the dataset and change the paths to the dataset accordingly in the notebook before running.
 
 ## References and Citations
 * [Taming Transformers](https://github.com/CompVis/taming-transformers)
