@@ -65,8 +65,9 @@ This repository contains the implementation of denoising diffusion model for ima
     | Recall       | 0.4504                              |
 ## References
 1. [Denoising Diffusion Probabilistic Models Paper](https://arxiv.org/abs/2006.11239)
-2. [LSUN Bedroom Dataset Repository](https://github.com/fyu/lsun)
-3. [DDPM in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch/tree/main)
-4. Evaluation metrics
+2. [DDPM Coding tutorial](https://www.youtube.com/watch?v=S_il77Ttrmg)
+3. [LSUN Bedroom Dataset Repository](https://github.com/fyu/lsun)
+4. [DDPM in Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch/tree/main)
+5. Evaluation metrics
    - [FID score](https://github.com/bioinf-jku/TTUR/blob/73ab375cdf952a12686d9aa7978567771084da42/fid.py#L109)
    - [Precission and Recall](https://github.com/openai/guided-diffusion/blob/22e0df8183507e13a7813f8d38d51b072ca1e67c/evaluations/evaluator.py#L194C7-L194C7) 
